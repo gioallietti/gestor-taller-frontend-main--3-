@@ -1,0 +1,19 @@
+.boton-mostrar-menu {
+    margin-left: 5px;
+    transition: ease-in-out 500ms;
+}
+
+.activo {
+      margin-left: 50px;
+    transition: ease-in-out 500ms;
+}
+
+.mostrar-menu {
+    margin-left: 0px;
+    transition: ease-in-out 500ms;
+}
+
+.ocultar-menu {
+      margin-left: -150px;
+    transition: ease-in-out 500ms;
+}
